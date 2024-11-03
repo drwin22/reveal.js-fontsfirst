@@ -4,7 +4,8 @@
 
 A plugin for [Reveal.js](https://revealjs.com) that makes sure that your fonts get loaded before initialising Reveal.js.
 
-[![Screenshot](screenshot.png)](https://github.com/drwin22/reveal.js-fontsfirst/blob/master/demo.html))
+[![Screenshot](screenshot.png)](https://martinomagnifico.github.io/reveal.js-fontsfirst/demo.html)
+
 
 Sometimes when you use a Google or Typekit font, it takes some time to load the font. Your presentation will then first show in a default font and then jump to the correct font (known as a 'FOUT', a Flash Of Unstyled Text). 
 
