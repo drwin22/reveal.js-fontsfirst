@@ -11,7 +11,7 @@ Sometimes when you use a Google or Typekit font, it takes some time to load the 
 
 Also, if you use an Adblocker like Ghostery, it is possible that the remote font will also not load at all. This plugin fixes that, but you do need to provide your self-hosted fallback fonts.
 
-Here's a [demo](https://martinomagnifico.github.io/reveal.js-fontsfirst/demo.html) of a simple project that uses the FontsFirst plugin.
+Here's a [(https://github.com/drwin22/reveal.js-fontsfirst/blob/master/demo.html)(https://github.com/drwin22/reveal.js-fontsfirst/blob/master/demo.html) of a simple project that uses the FontsFirst plugin.
 
 FontsFirst works like this:
 
